@@ -1,0 +1,29 @@
+_repo: The-Dull-Miss-Archinard_42109
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42109-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Sedgwick, Anne Douglas
+    birthdate: 1873
+    deathdate: 1935
+    gutenberg_agent_id: '2634'
+    url: http://www.gutenberg.org/2009/agents/2634
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
+description: ''
+gutenberg_issued: '2013-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Dull Miss Archinard
+url: http://www.gutenberg.org/ebooks/42109
